@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ---
-- ✨ In the process of graduating as a _computer engineer_.
+- ✨ _computer engineer_.
 - 👨‍🎓 With the purpose of always learning and improving.
 - 🚀 Projects coming soon.
   
