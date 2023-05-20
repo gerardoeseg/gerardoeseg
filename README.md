@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 ---
-- ✨ _computer engineer_.
+- ✨ Computer engineer.
 - 👨‍🎓 With the purpose of always learning and improving.
 - 🚀 Projects coming soon.
-  
